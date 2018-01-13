@@ -1,0 +1,17 @@
+
+tinyos@kang-hp1 ~/devel/kdatahub/EE-data-analysis/input_data_processing $ python check_err_id_to_db.py
+GO ...
+workding...
+ no input # starting with init variables ....
+check date 2016060100 ~ 2017050500
+start time -> 2017-06-09 18:28:37.858553
+  Total = 541
+1, 00-250071669
+2, 00-250071595
+3, 00-250071617
+00-250071577, nodata_cnt = 3 / 541
+ finish time -> 2017-06-10 00:48:25.325696
+... exiting
+
+
+

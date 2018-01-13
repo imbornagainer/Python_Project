@@ -1,0 +1,37 @@
+
+class u_ee_tsdb :
+
+    __cin_stime = None #시작시간
+    __cin_etime = None #종료시간
+    __cin_url = None
+    __cin_datelist = []
+    __cin_metric_rname = None
+    __cin_metric_wname = None
+
+    def __init__(self, __url, __st, __et) :
+
+    def _url(self, __url):
+
+    def set_time_period(self,__st,__et) : #TSDB는 기본적으로 시작/종료 시간필요
+
+    def set_metric(self,__m) : #TSDB는 metric 이름을 기준으로 읽고/저장
+
+    def read(self) : 
+        return metric 이름
+        #time, metric 이 준비된 경우 read, 리턴은 측정값 ??? 정보가 좀 더 필요할것 같은데...
+
+    def read(self, __m) :
+        return
+
+    #time, metric 이 준비된 경우 write, 리턴은 측정값 ??? 정보가 좀 더 필요할것 같은데...
+    def write(self) : 
+
+    #근래 값을 읽기
+    def recentRead(self):
+
+    # 기준 시간으로 읽기
+    # 201707120030 이렇게 하면, 가장 가까운 시간 읽어서 리턴 ?
+    # 30분동안의 시간값을 읽어서 가장 최근것을 사용
+    def readOnePoint(self, time):
+        
+

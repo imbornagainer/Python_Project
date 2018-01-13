@@ -1,0 +1,36 @@
+#### DB data check
+- total modem id = 552 (304 days, 0701~0430)
+  - no 1 % day of all data = 0
+  - no 3 % day of all data = 0
+  - no 5 % day of all data = 0
+  - no 7 % day of all data = 183  
+  - no 10 % day of all data = 127
+  - no 20 % day of all data = 40
+  - no 30 % day of all data = 31
+  - no 40 % day of all data = 29
+  - no 50 % day of all data = 24
+  - no 60 % day of all data = 19
+  - no 70 % day of all data = 29
+  - no 80 % day of all data = 19
+  - no 90 % day of all data = 12
+  - no 95 % day of all data = 38
+  - no 100 % day of all data = 0
+   - count = 552
+
+- total modem id = 337 (153 days, 0801~0101)
+  - no 1 % day of all data = 24
+  - no 3 % day of all data = 15
+  - no 5 % day of all data = 17
+  - no 7 % day of all data = 9
+  - no 10 % day of all data = 68
+  - no 20 % day of all data = 19
+  - no 30 % day of all data = 29
+  - no 40 % day of all data = 18
+  - no 50 % day of all data = 13  
+  - no 60 % day of all data = 12
+  - no 70 % day of all data = 9
+  - no 80 % day of all data = 12
+  - no 90 % day of all data = 13
+  - no 95 % day of all data = 14
+  - no 100 % day of all data = 18
+   - count = 337

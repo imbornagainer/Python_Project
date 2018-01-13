@@ -1,0 +1,81 @@
+{
+  "led": {
+    "tags": {
+      "building": {
+        "total": "393",
+        "office": "91",
+        "factory": "221",
+        "mart": "2",
+        "bigmart": "9",
+        "electricmart": "20",
+        "apt": "37",
+        "departmentStore": "3",
+        "etc": "2",
+        "hospital": "2",
+        "none": "10",
+        "school": "5"
+      },
+      "detail": {
+        "hospital": "1",
+        "metal": "28",
+        "wood": "15",
+        "ceramic": "9",
+        "fiber": "22",
+        "food": "12",
+        "fceramic": "8",
+        "carpart": "25",
+        "machineEquipment": "8",
+        "semiconductor": "2",
+        "electronicShock": "3",
+        "medical": "2",
+        "departmentStore": "25",
+        "school": "5",
+        "sangyong": "72",
+        "industryEtc": "122",
+        "building_etc": "40"
+      }
+    }
+  },
+  "inverter": {
+    "tags": {
+      "load": {
+        "total": "52",
+        "blower": "3",
+        "compressor": "5",
+        "pump": "8",
+        "fan": "28",
+        "blank" : "6"
+      },
+      "detail": {
+        "hospital": "0",
+        "metal": "3",
+        "wood": "1",
+        "ceramic": "0",
+        "departmentStore": "27",
+        "fiber": "1",
+        "school": "0",
+        "food": "2",
+        "sangyong": "4",
+        "industryEtc": "13",
+        "building_etc": "0",
+        "fceramic": "8",
+        "carpart": "0",
+        "machineEquipment": "0",
+        "semiconductor": "2",
+        "electronicShock": "2",
+        "medical": "1"
+      }
+    }
+  },
+  "load": {
+    "tags": {
+      "nang": {
+        "turbo_cold": "14",
+        "pump_cold": "14",
+        "cold_hot_dispensers": "21",
+        "cold_hot_pump": "21",
+        "ehp": "25"
+      }
+    }
+  }
+}

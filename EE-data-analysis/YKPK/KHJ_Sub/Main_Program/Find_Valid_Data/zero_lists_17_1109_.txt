@@ -1,0 +1,5 @@
+led_valid_cnt : 34
+led_zero_cnt : 387
+inv_valid_cnt : 68
+inv_zero_cnt : 34
+

@@ -143,3 +143,5 @@ Downgrades within a major version are idempotent.
 Warning
 
 If you wrote data using a salted table or changed the UID widths for metrics, tag keys or tag values then you cannot downgrade. Create a new table and export the data from the old table, then re-write the data to the new table using the older TSD version.
+
+http://opentsdb.net/docs/build/html/installation.html#start-a-tsd

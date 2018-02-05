@@ -1,0 +1,68 @@
+{
+   "led" : {
+      "tags" : {
+         "building" : {
+            "total" : "372",
+            "apt" : {
+               "detail" : {
+                  "apt" : "43"
+               }
+            },
+            "factory" : {
+               "detail" : {
+                  "metal" : "29",
+                  "box_center" : "1",
+                  "industryEtc" : "130",
+                  "fiber" : "23",
+                  "food" : "12",
+                  "ceramic" : "1",
+                  "electricmart" : "1",
+                  "wood" : "15",
+                  "fceramic" : "8"
+               }
+            },
+            "office" : {
+               "detail" : {
+                  "building_etc" : "22",
+                  "etc" : "2",
+                  "mart" : "1",
+                  "box_center" : "10",
+                  "departmentStore" : "26",
+                  "hospital" : "2",
+                  "electricmart" : "70",
+                  "school" : "5"
+               }
+            }
+         }
+      }
+   },
+   "inverter" : {
+      "tags" : {
+         "building" : {
+            "total" : "74",
+            "factory" : {
+               "detail" : {
+                  "metal" : "7",
+                  "wood" : "1",
+                  "fiber" : "3",
+                  "food" : "2",
+                  "industryEtc" : "34",
+                  "fceramic" : "2"
+               }
+            },
+            "etc" : {
+               "detail" : {
+                  "etc" : "1"
+               }
+            },
+            "office" : {
+               "detail" : {
+                  "departmentStore" : "31",
+                  "building_etc" : "3",
+                  "mart" : "3"
+               }
+            }
+         }
+      }
+   }
+}
